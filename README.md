@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @moh3844
 - 👀 I’m interested in developping management systems using Delphi/Firebird (or any DBMS)
 - 🌱 I’m currently learning JS and React 
-- 💞️ I’m looking to collaborate on Delphi projects
+- 💞️ It's OK to collaborate on React/JS or Delphi projects 
 - 📫 How to reach me mohsennamrani@yahoo.com
 
 <!---
